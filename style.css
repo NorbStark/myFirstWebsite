@@ -1,0 +1,76 @@
+body {
+    font-family: 'Henny Penny', cursive;
+    background-image: url(assets/swjo.jpg);
+}
+
+header {
+    background-color: #333333;
+    height: 60px;
+    text-align: center;
+    margin-bottom: 150px;
+    
+}
+
+div {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+    margin-left:0%;
+    margin-right: 47%;
+    padding-top: 15px;
+}
+
+
+nav {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 77px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.cimrozsa {
+    color:#ff0099;
+   }
+
+a {
+    color:#ff0099;
+    margin-right: 2%;
+}
+
+.sekcio1 {
+    padding-bottom: 25px;
+}
+
+p {
+    font-size: 30px; 
+}
+
+hr {
+    border-top: 3px dashed;
+    width: 2%;
+}
+
+.def {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    padding-bottom: 25px;
+}
+
+.megoldas {
+    padding-bottom: 15px;
+}
+
+footer {
+    text-align: center;
+    font-family: none;
+}
